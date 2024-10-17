@@ -1,0 +1,7 @@
+@font-face {
+    font-display: swap;
+    font-family: Tongari Regular;
+    font-style: normal;
+    font-weight: 400;
+    src: url(./tongari-regular.woff2) format("woff2"),url(./tongari-regular.woff) format("woff")
+}
